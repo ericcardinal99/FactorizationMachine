@@ -8,7 +8,7 @@ This project explores advanced machine learning techniques by building a recomme
 * Captured explicit features (e.g., genres like Action, Drama) and implicit interactions (e.g., user preferences for specific time periods or genres).
 ### Model Optimization:
 * Implemented a factorization machine with TensorFlow, fine-tuning hyperparameters to ensure efficient feature interaction learning.
-#### Evaluation:
+### Evaluation:
 * Achieved high predictive accuracy by validating results with metrics like RMSE and precision at K.
 
 ## Impact
